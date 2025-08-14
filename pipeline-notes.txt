@@ -1,0 +1,3 @@
+pipeline intro : https://devops-cicd.hashnode.dev/introducing-the-power-of-pipelines-in-jenkins
+pipeline with variables : https://devops-cicd.hashnode.dev/how-to-write-your-first-pipeline-in-jenkinsfile
+pipeline with deployment : https://devops-cicd.hashnode.dev/jenkins-pipeline-to-deploy-java-application-git-maven-nexus-tomcat
